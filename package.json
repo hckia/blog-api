@@ -1,0 +1,19 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "Thinkful challenge to produce a blogging application building a CRUD API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hckia/blog-api.git"
+  },
+  "author": "H. Cyrus Kia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hckia/blog-api/issues"
+  },
+  "homepage": "https://github.com/hckia/blog-api#readme"
+}
