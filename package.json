@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hckia/blog-api/issues"
   },
-  "homepage": "https://github.com/hckia/blog-api#readme"
+  "homepage": "https://github.com/hckia/blog-api#readme",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
 }
