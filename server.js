@@ -64,7 +64,7 @@ app.put('/blog-posts/:id', jsonParser,(req,res) => {
 })
 
 app.delete('/blog-posts/:id', (req, res) => {
-  ShoppingList.delete(req.params.id);
+  BlogPosts.delete(req.params.id);
   console.log(`Deleting blog post id \`${req.params.id}\``);
   res.status(204).end();
 });
